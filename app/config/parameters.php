@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'teke',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'frvw4S2vyRFT6LhfeJInVQtHLOtiP5S9K6t1Dt8SV0BmdLf4BYcGKQwU9vNR2Gjk',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2021-01-11',
+    'locale' => 'en-US',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'EkY4BHIXUFNvApHPLkZOkneUwMZzRe02UFqxHfRiVQROsR9DcXkx23DBb4W4Chqg',
+    'cookie_iv' => 'V7JwNcRPNQjKgBcH8IUu6ycRgCRFrIB3',
+    'new_cookie_key' => 'def00000d1bdaf54feddde153c4fec9eef894a9ac78233473b8509b8228528578f22b71bc4c56be9d95519e462d12c0f603a8ea9ac485307a7e16638deee53d6d14e3e5c',
+  ),
+);
